@@ -23,6 +23,9 @@
   <a href="https://github.com/prabhat3232">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://fileshrinkr.com/">
+    <img src="https://img.shields.io/badge/FileShrinkr-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FileShrinkr" />
+  </a>
 </p>
 
 ---
@@ -73,6 +76,11 @@ I enjoy learning new technologies and applying them to real products in domains 
 
 ## Featured Work
 
+### Live Product
+| Project | Description |
+| --- | --- |
+| [FileShrinkr](https://fileshrinkr.com/) | Free online image compressor and editor — supports HEIC, AVIF, PNG, and more |
+
 ### Open Source
 | Project | Description |
 | --- | --- |
@@ -114,6 +122,7 @@ Work across full-stack systems including:
 
 I'm open to collaboration, technical discussions, and opportunities where full-stack craftsmanship matters.
 
+- **Website:** [fileshrinkr.com](https://fileshrinkr.com/)
 - **LinkedIn:** [prabhat-barai-99195960](https://www.linkedin.com/in/prabhat-barai-99195960)
 - **Email:** [prabhat3232@gmail.com](mailto:prabhat3232@gmail.com)
 - **GitHub:** [github.com/prabhat3232](https://github.com/prabhat3232)
